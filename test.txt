@@ -4,5 +4,4 @@
 4 mainBranch_test Commit2
 5 mainBranch_test Commit3
 6 mainBranch_test2 Commit1
-
-7 mainBranch_test2 Commit2 Conflict Test
+8 main after origin/main And Local main Merge 
